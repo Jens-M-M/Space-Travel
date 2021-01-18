@@ -8,4 +8,11 @@
 .upper_bar{
   display:flex;
   justify-content: space-between;
+  background-color:#303030;
+  border-color:#303030;
+}
+.upper_bar_nav{
+  display:flex;
+  gap:20px;
+  
 }
