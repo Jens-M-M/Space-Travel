@@ -1,15 +1,22 @@
+h2{
+  text-align:center;
+  color:white;
+  font-family: 'Audiowide', cursive;
+}
+
 .body{
   display:flex;
-  background:black;
-  left:10;
-  right:10;
+  background:#303030;
   flex-direction: column;
+  border:0;
+  margin:0;
 }
 .upper_bar{
   display:flex;
   justify-content: space-between;
-  background-color:#474747;
-  border-color: white;
+  background-color:#303030;
+  margin:0px;
+  border: 0px;
   padding:30px;
 }
 .upper_bar_nav{
