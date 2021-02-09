@@ -27,6 +27,7 @@ h2{
   margin:0px;
   border: 0px;
   padding:30px;
+  justify-content:space-around;/**/
 }
 
 .upper_bar_L{
@@ -38,6 +39,8 @@ h2{
   color:white;
   text-decoration: none;
   gap:20px;
+  justify-content:row;
+  font-size:20px;
 }
 
 .upper_bar_R{
@@ -47,7 +50,8 @@ h2{
 }
 
 .upper_bar_R a{
-    color:lightblue;
+  color:lightblue;
+  text-decoration: none;
 }
 
 
