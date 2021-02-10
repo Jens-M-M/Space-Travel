@@ -4,15 +4,6 @@ h2{
   font-family: 'Audiowide', cursive;
 }
 
-.Site-Name{
-  text-shadow: 4px 0px 0px #00FFF0, -4px 0px 3px #FF0000;
-  background:#303030;
-  color:white;
-  border:none;
-  font-size:170%;
-  font-family: 'Audiowide', cursive;
-}
-
 .body{
   display:flex;
   background:#303030;
@@ -20,6 +11,7 @@ h2{
   border:0;
   margin:0;
 }
+
 .upper_bar{
   display:flex;
   background-color:#303030;
