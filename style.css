@@ -40,6 +40,7 @@ h2{
   gap:20px;
   justify-content:row;
   font-size:20px;
+  font-family:Major Mono Display;
 }
 
 .upper_bar_R{
@@ -62,8 +63,13 @@ h2{
 
 .bottom_left {
   position: absolute;
-
-  color:white;
+  bottom: 20px;
+  left: 20px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size:300%;
+  font-family:Major Mono Display;
 }
 
 h1 {
