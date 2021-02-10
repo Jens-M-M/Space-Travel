@@ -32,6 +32,12 @@ h2{
 .upper_bar_L{
   display:flex;
   justify-content:center;
+  flex-direction: row;
+  color:white;
+}
+
+.joon{
+  
 }
 
 .nav_bar a{
@@ -46,6 +52,7 @@ h2{
 .upper_bar_R{
   display:flex;
   gap:20px;
+  font-size:20px;
   
 }
 
