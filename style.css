@@ -53,22 +53,24 @@ h2{
   text-decoration: none;
 }
 
+/*Esimene pilt*/
+
 .site_picture{
   position: relative;
-  text-align: center;
   color: white;
 }
 
 .bottom_left {
   position: absolute;
-  bottom: 8px;
-  left: 16px;
+
   color:white;
 }
 
 h1 {
   color:white;
 }
+
+/*piltid*/
 
 .divide{
   background:white;
@@ -80,5 +82,11 @@ h1 {
   bottom:350;
 }
 
+/*activities*/
+
+.activities_title{
+  text-align:left;
+  left:10cm;
+}
 
 
