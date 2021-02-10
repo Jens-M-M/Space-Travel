@@ -61,15 +61,25 @@ h2{
   color: white;
 }
 
-.bottom_left {
+.bottom_left_title {
+  position: absolute;
+  bottom: 200px;
+  left: 40px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size:300%;
+  font-family:Major Mono Display;
+}
+
+.bottom_left_text {
   position: absolute;
   bottom: 20px;
   left: 20px;
   color: white;
   padding-left: 20px;
   padding-right: 20px;
-  font-size:300%;
-  font-family:Major Mono Display;
+  font-size:200%;
 }
 
 h1 {
@@ -79,7 +89,7 @@ h1 {
 /*piltid*/
 
 .divide{
-  background:white;
+  background-color:#474747;
   border-color:white;
 }
 
