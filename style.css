@@ -53,13 +53,10 @@ h2{
   text-decoration: none;
 }
 
-.divide{
-  background:white;
-  border-color:white;
-}
-
-.game_picture{
-  
+.site_picture{
+  position: relative;
+  text-align: center;
+  color: white;
 }
 
 .bottom_left {
@@ -69,9 +66,18 @@ h2{
   color:white;
 }
 
-
 h1 {
   color:white;
 }
+
+.divide{
+  background:white;
+  border-color:white;
+}
+
+.game_picture{
+  
+}
+
 
 
