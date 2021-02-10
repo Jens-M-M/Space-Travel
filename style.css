@@ -108,8 +108,9 @@ h1 {
 /*piltid*/
 
 .divide{
-  background-color:#474747;
   border-color:white;
+  border:solid;
+  margin:50px 50px 50px 50px;
 }
 
 .game_pictures{
