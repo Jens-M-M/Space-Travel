@@ -62,4 +62,16 @@ h2{
   
 }
 
+.bottm_left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  color:white;
+}
+
+
+h1 {
+  color:white;
+}
+
 
