@@ -4,6 +4,7 @@ h2{
   font-family: 'Audiowide', cursive;
 }
 
+
 .body{
   display:flex;
   background:#303030;
@@ -11,6 +12,8 @@ h2{
   border:0;
   margin:0;
 }
+
+/*__________________________________upper bar__________________________________*/
 
 .upper_bar{
   display:flex;
@@ -26,10 +29,6 @@ h2{
   justify-content:center;
   flex-direction: row;
   color:white;
-}
-
-.joon{
-  
 }
 
 .nav_bar a{
@@ -53,7 +52,7 @@ h2{
   text-decoration: none;
 }
 
-/*Esimene pilt*/
+/*___________________________________firs pilt___________________________________*/
 
 .site_picture{
   position: relative;
@@ -105,7 +104,7 @@ h1 {
   color:white;
 }
 
-/*divider*/
+/*_______________________________________divider_______________________________*/
 
 .divide{
   border-color:white;
@@ -113,11 +112,12 @@ h1 {
   margin:0px 0px 80px 0px;
 }
 
-/*piltid*/
+/*_______________________________________pictures______________________________*/
 
 .game_pictures{
   top:350;
   bottom:350;
+  position: relative;
 }
 
 .pictures{
@@ -125,7 +125,16 @@ h1 {
   margin-top:30px;
 }
 
-/*activities*/
+.game_pictures_text{
+  position: absolute;
+  top: 125px;
+  right: 75px;
+  color: white;
+  font-size:200%;
+  border-radius: 50px;
+}
+
+/*______________________________________activities_____________________________*/
 
 .activities{
   position: relative;
