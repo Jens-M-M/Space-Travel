@@ -218,5 +218,8 @@ h1 {
 
 .news_box{
   border: 2px solid;
-  padding:1cm 1cm 1cm 1cm;
+  padding:0;
+  margin-left:3cm;
+  margin-right:3cm;
+  
 }
