@@ -216,7 +216,23 @@ h1 {
   text-align: center;
 }
 
-.news_box{
+.news_box_1{
+  border: 2px solid;
+  padding:0;
+  margin-left:3cm;
+  margin-right:1cm;
+  
+}
+
+.news_box_2{
+  border: 2px solid;
+  padding:0;
+  margin-left:1cm;
+  margin-right:1cm;
+  
+}
+
+.news_box_3{
   border: 2px solid;
   padding:0;
   margin-left:3cm;
