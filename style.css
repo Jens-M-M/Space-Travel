@@ -52,7 +52,7 @@ h2{
   text-decoration: none;
 }
 
-/*___________________________________firs pilt___________________________________*/
+/*___________________________________firs picture___________________________________*/
 
 .site_picture{
   position: relative;
@@ -116,6 +116,7 @@ h1 {
 
 .game_pictures{
   position: relative;
+  text-align:right;
 }
 
 .pictures{
@@ -133,7 +134,10 @@ h1 {
 
 .game_pictures_title{
   font-family:Major Mono Display;
-  text-align:right;
+}
+
+.game_picture_text{
+  font-family: 'Chakra Petch', sans-serif;
 }
 
 /*______________________________________activities_____________________________*/
