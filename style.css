@@ -133,17 +133,16 @@ h1 {
 
 .activities_div{
   position: absolute;
-  bottom: -px;
+  bottom: -32cm;
   left: 40px;
   color: white;
   padding-left: 20px;
   padding-right: 20px;
   font-size:200%;
-  font-family:;
 }
 
 .activities_title{
-
+  font-family:Major Mono Display;
 }
 
 
