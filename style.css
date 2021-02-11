@@ -115,19 +115,16 @@ h1 {
 /*_______________________________________pictures______________________________*/
 
 .game_pictures{
-  top:350;
-  bottom:350;
   position: relative;
 }
 
 .pictures{
-  display:flex;
-  margin-top:30px;
+
 }
 
 .game_pictures_text{
   position: absolute;
-  top: 125px;
+  bottom: 125px;
   right: 75px;
   color: white;
   font-size:200%;
