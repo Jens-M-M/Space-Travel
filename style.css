@@ -192,11 +192,22 @@ h1 {
   margin:0px 0px 80px 0px;
 }
 
+.news_new_divide{
+  
+}
+
 .news_table{
-  justify-content:center;
+  display: flex;
+  flex-directon:row;
+  flex-wrap:center;
+  justify-content:space-evenly;
+  aligen-items: center;
+  border-color: black;
+  border-width: 2px;
+  text-align: center;
 }
 
 .news_box{
   border: 2px solid;
-  padding:1cm;
+  padding:1cm 1cm 1cm 1cm;
 }
