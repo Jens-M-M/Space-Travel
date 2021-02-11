@@ -122,17 +122,18 @@ h1 {
 
 }
 
-.game_pictures_title{
-  font-family:Major Mono Display;
-}
-
-.game_pictures_text{
+.game_pictures_div{
   position: absolute;
   top: 125px;
   right: 75px;
   color: white;
   font-size:200%;
   border-radius: 50px;
+}
+
+.game_pictures_title{
+  font-family:Major Mono Display;
+  text-align:right;
 }
 
 /*______________________________________activities_____________________________*/
