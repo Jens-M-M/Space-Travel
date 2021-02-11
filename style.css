@@ -128,11 +128,20 @@ h1 {
 
 /*activities*/
 
-.ac
+.activities{
+  position: relative;
+  color: white;
+}
 
 .activities_title{
-  text-align:left;
-  left:10cm;
+  position: absolute;
+  bottom: 200px;
+  left: 40px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size:300%;
+  font-family:Major Mono Display;
 }
 
 
