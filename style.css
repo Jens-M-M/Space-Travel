@@ -361,3 +361,14 @@ html {
   padding-bottom:1cm;
   background:#202020;
 }
+
+/*_______________________________________Desktop - Mobile__________________________________________*/
+
+@media (max-width: 600px) {
+  nav.desktop {
+    display: none;
+  }
+  nav.mobile {
+    display: block;
+  }
+}
