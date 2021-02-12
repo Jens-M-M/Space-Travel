@@ -234,11 +234,22 @@ h1 {
 }
 
 .news_box_3{
-  border: 2px solid;
-  padding:4px 4px 4px 4px;
+
   margin-left:1cm;
   margin-right:5cm;
   background:#474747;
+}
+
+.news_box_title{
+  color:white;
+  padding-top:0.5cm;
+  font-size:150%;
+}
+
+.news_box_divider{
+  border-color:white;
+  border:1px solid;
+  
 }
 
 .news_bow_text{
@@ -253,7 +264,7 @@ h1 {
 }
 
 .news_more_button{
-  padding:0.15cm 4.5cm 0.15cm 4.5cm;
+  padding:0.15cm 4.7cm 0.15cm 4.7cm;
   border:solid 2px black;
   font-size:200%;
   font-family: 'Chakra Petch', sans-serif;
