@@ -329,3 +329,10 @@ h1 {
   border:white 1px solid;
   color:white;
 }
+
+/*___________________________________________Social Media_________________________________________*/
+
+.social_media_divide{
+  background:black;
+  padding:2cm;
+}
