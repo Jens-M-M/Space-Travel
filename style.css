@@ -333,6 +333,9 @@ h1 {
 /*___________________________________________Social Media_________________________________________*/
 
 .social_media_divide{
+  display:flex;
   background:black;
   padding:2cm;
+  justify-content:center;
+  flex-directon:row;
 }
