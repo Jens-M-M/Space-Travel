@@ -386,7 +386,7 @@ nav.mobile .nav-links {
   left: 0;
   padding: 20px 40px;
   transition: opacity 0.5s, transform 0.5s;
-  text-decoration: none;
+  font-family: 'Chakra Petch', sans-serif;
 }
 
 
