@@ -387,4 +387,32 @@ html {
 /*________________________________________Mobile News_______________________________________________*/
 
 
-.
+.mobile_divider_top{
+  border:solid 1px white;
+  margin:1cm;
+  
+}
+
+.mobile_divider_title{
+  display:flex;
+  font-family:Major Mono Display;
+  color:white;
+  justify-content:center;
+  margin-top:0.25cm;
+  
+}
+
+.mobile_divider_bottom{
+  border:solid white 1px;
+  margin-left:25%;
+  margin-right:25%;
+}
+
+.mobile_news_table{
+  display:flex;
+  flex-direction:;
+}
+
+.mobile_news_box1{
+  border:solid 1px;
+}
