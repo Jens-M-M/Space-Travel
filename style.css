@@ -120,9 +120,9 @@ h1 {
 }
 
 
-/*_______________________________________divider_______________________________*/
+/*_______________________________________dividers_______________________________*/
 
-.divide{
+.divide_1{
   border-color:white;
   border:1px solid;
   margin:0px 0px 80px 0px;
@@ -183,7 +183,7 @@ h1 {
 /*______________________________________News____________________________________*/
 
 .news{
-  margin-bottom:1000px;
+ 
 }
 
 .news_divide{
@@ -271,4 +271,5 @@ h1 {
   font-family: 'Chakra Petch', sans-serif;
   background:#474747;
   color:white;
+  margin-bottom:5cm;
 }
