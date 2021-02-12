@@ -273,3 +273,10 @@ h1 {
   color:white;
   margin-bottom:5cm;
 }
+
+/*___________________________________________Contact Us_________________________________________*/
+
+.typing_area{
+  display:flex;
+  justify-content:center;
+}
