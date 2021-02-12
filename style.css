@@ -61,7 +61,7 @@ h1 {
   display:flex;
   gap:20px;
   font-size:20px;
-  
+  font-family: 'Chakra Petch', sans-serif;
 }
 
 .upper_bar_R a{
@@ -216,21 +216,25 @@ h1 {
 }
 
 .news_box_1{
-  margin-left:1cm;
-  margin-right:5cm;
+  margin-left:4cm;
   background:#474747;
+  border:none;
+  padding: 0px 0px 0px 0px;
 }
 
 .news_box_2{
-  margin-left:1cm;
-  margin-right:5cm;
+  margin-left:3cm;
+  margin-right:3cm;
   background:#474747;
+  border:none;
+  padding: 0px 0px 0px 0px;
 }
 
 .news_box_3{
-  margin-left:1cm;
-  margin-right:5cm;
+  margin-right:4cm;
   background:#474747;
+  border:none;
+  padding: 0px 0px 0px 0px;
 }
 
 .news_box_title{
