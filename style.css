@@ -384,6 +384,21 @@ html {
   
 }
 
+.mobile_links_hidden{
+  opacity: 0;
+  transform: translateX(-20px);
+  pointer-events: none;
+}
+
+.close-menu {
+  align-self: flex-end;
+}
+
+
+
+
+
+
 /*________________________________________Mobile News_______________________________________________*/
 
 
