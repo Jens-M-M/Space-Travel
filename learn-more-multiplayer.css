@@ -6,4 +6,5 @@ body{
   display:flex;
   justify-content:space-evenly;
   background:#303030;
+  flex-direction:row;
 }
