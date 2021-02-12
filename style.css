@@ -375,16 +375,31 @@ html {
 
 /*________________________________________Mobile - Desktop___________________________________________*/
 
-.mobile_bar{
-  background:;
-  
+nav.mobile {
+  display: none;
 }
 
-.mobile_menu{
-  
+nav.mobile .nav-links {
+  display: flex;
+  flex-direction: column;
+  background: #eee;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  padding: 20px 40px;
+  transition: opacity 0.5s, transform 0.5s;
 }
 
-.mobile_links_hidden{
+nav.desktop .nav-links a {
+  margin: 0 10px;
+}
+
+nav.mobile .nav-links a {
+  margin: 10px 0;
+}
+
+nav.mobile .nav-links.hidden {
   opacity: 0;
   transform: translateX(-20px);
   pointer-events: none;
@@ -393,10 +408,6 @@ html {
 .close-menu {
   align-self: flex-end;
 }
-
-
-
-
 
 
 /*________________________________________Mobile News_______________________________________________*/
