@@ -208,7 +208,6 @@ h1 {
 .news_table{
   display: flex;
   flex-directon:row;
-  flex-wrap:center;
   justify-content:space-evenly;
   aligen-items: center;
   border-color: black;
@@ -230,6 +229,7 @@ h1 {
   padding:4px 4px 4px 4px;
   margin-left:1cm;
   margin-right:1cm;
+  background:#474747;
   
 }
 
@@ -238,5 +238,21 @@ h1 {
   padding:4px 4px 4px 4px;
   margin-left:1cm;
   margin-right:5cm;
-  
+  background:#474747;
+}
+
+.news_more{
+  margin-top:3cm;
+  display:flex;
+  aligen-items:center;
+  justify-content:center;
+}
+
+.news_more_button{
+  padding:0.75cm 6cm 0.75cm 6cm;
+  border:solid 2px black;
+  font-size:300%;
+  font-family: 'Chakra Petch', sans-serif;
+  background:#474747;
+  color:white;
 }
