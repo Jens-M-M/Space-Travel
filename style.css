@@ -241,6 +241,10 @@ h1 {
   background:#474747;
 }
 
+.news_bow_text{
+  
+}
+
 .news_more{
   margin-top:3cm;
   display:flex;
@@ -249,9 +253,9 @@ h1 {
 }
 
 .news_more_button{
-  padding:0.75cm 6cm 0.75cm 6cm;
+  padding:0.15cm 4.5cm 0.15cm 4.5cm;
   border:solid 2px black;
-  font-size:300%;
+  font-size:200%;
   font-family: 'Chakra Petch', sans-serif;
   background:#474747;
   color:white;
