@@ -379,7 +379,7 @@ html {
 nav.mobile .nav-links {
   display: flex;
   flex-direction: column;
-  background: #eee;
+  background: SpringGreen;
   position: fixed;
   top: 0;
   bottom: 0;
@@ -400,6 +400,7 @@ nav.mobile .nav-links.hidden {
   transform: translateX(-20px);
   pointer-events: none;
 }
+
 
 .close-menu {
   align-self: flex-end;
