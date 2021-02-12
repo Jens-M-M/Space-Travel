@@ -49,6 +49,7 @@ h1 {
 }
 
 .nav_bar a{
+  
   color:white;
   text-decoration: none;
   gap:20px;
@@ -334,8 +335,17 @@ h1 {
 
 .social_media_divide{
   display:flex;
-  background:black;
-  padding:2cm;
+  background:#202020;
+  padding-top:1cm;
   justify-content:center;
   flex-directon:row;
+  padding-bottom:1cm;
+}
+
+.media_text{
+  display:flex;
+  justify-content:center;
+  flex-directon:row;
+  background:#202020;
+  padding-bottom:1cm;
 }
