@@ -279,4 +279,21 @@ h1 {
 .typing_area{
   display:flex;
   justify-content:center;
+  flex-direction:column;
+  color:white;
+  margin-left:40%;
+  margin-right:40%;
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+
+
+#message{
+  padding-bottom:3cm;
+  margin-top:0.25cm;
+}
+
+.send{
+  margin-top:0.75cm;
+  padding-top:1cm;
 }
