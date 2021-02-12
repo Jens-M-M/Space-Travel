@@ -410,9 +410,14 @@ html {
 
 .mobile_news_table{
   display:flex;
-  flex-direction:;
+  flex-direction:column;
+  margin-top:1cm;
 }
 
 .mobile_news_box1{
-  border:solid 1px;
+  border:none;
+  margin-left:15%;
+  margin-right:15%;
+  margin-bottom:1cm;
+  background:#;
 }
