@@ -39,7 +39,7 @@ html {
 
 /*__________________________________upper bar__________________________________*/
 
-.upper_bar{
+.upper_bar {
   display:flex;
   background-color:#303030;
   margin:0px;
@@ -365,10 +365,17 @@ html {
 /*_______________________________________Desktop - Mobile__________________________________________*/
 
 @media (max-width: 600px) {
-  nav.desktop {
+  .desktop {
     display: none;
   }
-  nav.mobile {
+  .mobile {
     display: block;
   }
+}
+
+/*________________________________________Mobile - Desktop___________________________________________*/
+
+.mobile{
+  
+  
 }
