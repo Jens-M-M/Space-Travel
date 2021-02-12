@@ -197,6 +197,7 @@ h1 {
   text-align:center;
   color:white;
   font-family:Major Mono Display;
+  font-size:200%;
 }
 
 .news_new_divide{
@@ -278,12 +279,19 @@ h1 {
 
 /*___________________________________________Contact Us_________________________________________*/
 
-.typing_area{
+#contact_us{
+  background:#404040;
+}
+
+.contact_contend{
   display:flex;
   justify-content:space-evenly;
   color:white;
-
   font-family: 'Chakra Petch', sans-serif;
+}
+
+.contact_text{
+  font-size:200%;
 }
 
 .email_send{
@@ -310,4 +318,6 @@ h1 {
   padding-bottom:0.1cm;
   font-size:100%;
   font-family: 'Chakra Petch', sans-serif;
+  background:#474747;
+  border:black 2px solid;
 }
