@@ -1,3 +1,9 @@
 body{
   background:black;  
 }
+
+.multy_upper_bar{
+  display:flex;
+  justify-content:space-evenly;
+  background:#303030;
+}
