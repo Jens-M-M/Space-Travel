@@ -20,7 +20,7 @@ h2{
   border-color:#303030;
   margin-right:25px;
   opacity: 0.6;
-  background-color:black;
+  background-color:SpringGreen;
   color:white;
   font-family: 'Chakra Petch', sans-serif;
   
@@ -202,7 +202,7 @@ h1 {
 .news_new_divide{
   border-color:white;
   border:1px solid;
-  margin:0px 100px 80px 100px;
+  margin:0px 100px 150px 100px;
 }
 
 .news_table{
@@ -219,9 +219,9 @@ h1 {
 .news_box_1{
   border: 2px solid;
   padding:4px 4px 4px 4px;
-  margin-left:3cm;
+  margin-left:5cm;
   margin-right:1cm;
-  background:DarkSlateGrey;
+  background:white;
   
 }
 
@@ -236,7 +236,7 @@ h1 {
 .news_box_3{
   border: 2px solid;
   padding:4px 4px 4px 4px;
-  margin-left:3cm;
-  margin-right:3cm;
+  margin-left:1cm;
+  margin-right:5cm;
   
 }
