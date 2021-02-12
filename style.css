@@ -375,9 +375,6 @@ html {
 
 /*________________________________________Mobile - Desktop___________________________________________*/
 
-nav.mobile {
-  display: none;
-}
 
 nav.mobile .nav-links {
   display: flex;
@@ -389,11 +386,10 @@ nav.mobile .nav-links {
   left: 0;
   padding: 20px 40px;
   transition: opacity 0.5s, transform 0.5s;
+  text-decoration:none;
 }
 
-nav.desktop .nav-links a {
-  margin: 0 10px;
-}
+
 
 nav.mobile .nav-links a {
   margin: 10px 0;
@@ -403,10 +399,14 @@ nav.mobile .nav-links.hidden {
   opacity: 0;
   transform: translateX(-20px);
   pointer-events: none;
+  
 }
 
 .close-menu {
   align-self: flex-end;
+  background:#303030;
+  color:white;
+  border-radius:100px;
 }
 
 
