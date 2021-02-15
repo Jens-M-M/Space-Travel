@@ -220,34 +220,23 @@ html {
 .news_table{
   display: flex;
   flex-directon:row;
-  justify-content:space-evenly;
-  aligen-items: center;
+  justify-content:center;
   border-color: black;
   border-width: 1px;
   text-align: center;
 }
 
-.news_box_1{
-  margin-left:4cm;
+.news_box{
+  display:flex;
+  flex-direction:column;
   background:#474747;
   border:none;
   padding: 0px 0px 0px 0px;
+  margin:1cm;
+  align-items:center;
 }
 
-.news_box_2{
-  margin-left:3cm;
-  margin-right:3cm;
-  background:#474747;
-  border:none;
-  padding: 0px 0px 0px 0px;
-}
 
-.news_box_3{
-  margin-right:4cm;
-  background:#474747;
-  border:none;
-  padding: 0px 0px 0px 0px;
-}
 
 .news_box_title{
   color:white;
