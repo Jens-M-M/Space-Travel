@@ -55,14 +55,17 @@ html {
   color:white;
 }
 
-.nav_bar a{
+.nav_bar {
   display:flex;
-  color:white;
-  text-decoration: none;
   gap:20px;
   justify-content:row;
   font-size:20px;
   font-family:Major Mono Display;
+}
+
+.nav_bar a{
+  color:white;
+  text-decoration: none;
 }
 
 .upper_bar_R{
@@ -392,6 +395,7 @@ nav.mobile .nav-links {
   padding: 20px 40px;
   transition: opacity 0.5s, transform 0.5s;
   font-family: 'Chakra Petch', sans-serif;
+  
 }
 
 
