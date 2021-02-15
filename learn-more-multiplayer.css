@@ -8,3 +8,8 @@ body{
   background:#303030;
   flex-direction:row;
 }
+
+.upper_bar_l{
+  display:flex;
+  flex-direction:row;
+}
