@@ -375,6 +375,7 @@ html {
 
 /*________________________________________Mobile - Desktop___________________________________________*/
 
+
 Nav.Mobile{
   Background:white;
 }
@@ -396,6 +397,8 @@ nav.mobile .nav-links {
 
 nav.mobile .nav-links a {
   margin: 10px 0;
+  Text-decoration:none;
+  Color:white;
 }
 
 nav.mobile .nav-links.hidden {
@@ -425,7 +428,6 @@ nav.mobile .nav-links.hidden {
   Text-align:center;
   font-family:Major Mono Display;
   Font-size:120%;
-  Text-decoration:underline;
 }
 
 /*________________________________________Mobile News_______________________________________________*/
