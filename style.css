@@ -366,6 +366,16 @@ html {
   }
 }
 
+@media (min-width: 600px){
+  .mobile{
+    display: none;
+  }
+  
+  .desktop{
+    display: block;
+  }
+}
+
 /*________________________________________Mobile - Desktop___________________________________________*/
 
 
