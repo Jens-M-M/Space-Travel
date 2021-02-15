@@ -375,11 +375,14 @@ html {
 
 /*________________________________________Mobile - Desktop___________________________________________*/
 
+Nav.Mobile{
+  Background:white;
+}
 
 nav.mobile .nav-links {
   display: flex;
   flex-direction: column;
-  background: SpringGreen;
+  background: #474747;
   position: fixed;
   top: 0;
   bottom: 0;
@@ -413,7 +416,9 @@ nav.mobile .nav-links.hidden {
 /*________________________________________mobile home screen________________________________________*/
 
 .mobile_home_screen{
-  Background:springgreen;
+  background: SpringGreen;
+  Padding-bottom:145%;
+
 }
 
 /*________________________________________Mobile News_______________________________________________*/
