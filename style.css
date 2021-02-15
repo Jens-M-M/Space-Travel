@@ -410,6 +410,11 @@ nav.mobile .nav-links.hidden {
   margin-bottom:1cm;
 }
 
+/*________________________________________mobile home screen________________________________________*/
+
+.mobile_home_screen{
+  Background:springgreen;
+}
 
 /*________________________________________Mobile News_______________________________________________*/
 
