@@ -417,8 +417,15 @@ nav.mobile .nav-links.hidden {
 
 .mobile_home_screen{
   background: SpringGreen;
-  Padding-bottom:145%;
+  Padding-bottom:120%;
+  Padding-top:20%;
+}
 
+.mobile_title{
+  Text-align:center;
+  font-family:Major Mono Display;
+  Font-size:120%;
+  Text-decoration:underline;
 }
 
 /*________________________________________Mobile News_______________________________________________*/
