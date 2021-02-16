@@ -43,3 +43,15 @@ body{
   color:lightblue;
   text-decoration: none;
 }
+
+/*________________________________________________________secto*/
+
+.section_1{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+}
+
+.section_1_text{
+  text-align:center;
+}
